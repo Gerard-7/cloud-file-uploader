@@ -1,0 +1,8 @@
+{
+  "source_folder": "sample_data",
+  "output_folder": "output",
+  "bucket_name": "my-demo-bucket",
+  "prefix": "uploads/",
+  "allowed_extensions": [".txt", ".csv", ".png", ".jpg"],
+  "generate_manifest": true
+}
