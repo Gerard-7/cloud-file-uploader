@@ -12,3 +12,8 @@ Python automation tool that scans a local folder, filters files by extension, an
 ## How to run
 ```bash
 python main.py
+
+## Output example
+local_path,bucket,s3_key
+sample_data/report.csv,my-demo-bucket,uploads/report.csv
+
